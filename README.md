@@ -4,14 +4,14 @@
 
 ### 1. Clone the source
 
-'git clone https://github.com/kschamer/dotfiles.git && cd dotfiles'
+`git clone https://github.com/kschamer/dotfiles.git && cd dotfiles`
 
 ### 2. Start the install procdure by
 
-'sh install.sh'
+`sh install.sh`
 
 or 
 
-'chmod +x install.sh'
+`chmod +x install.sh`
 
-'./install.sh'
+`./install.sh`
