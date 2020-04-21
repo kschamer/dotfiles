@@ -1,4 +1,6 @@
-# dotfiles
+## System requirements
+
+You need a Debian based System to use and run this script.
 
 ## Install
 
